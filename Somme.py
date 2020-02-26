@@ -1,4 +1,5 @@
-a = 25
-b = 20
-c = a * ((b * (b+1))//2)
-print(c)
+def somme_n_premiers_nbrs(n):
+    somme = 25*(n*(n+1)//2)
+    return somme
+
+
