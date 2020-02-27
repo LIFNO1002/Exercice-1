@@ -1,1 +1,4 @@
-
+#!/usr/bin/python3
+# -*- coding: utf-8 -*-
+def somme_n_premiers_nbrs(n):
+@    @q1@@
